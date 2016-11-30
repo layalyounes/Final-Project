@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/layalyounes/layalyounes.github.io/issues"
   },
-  "homepage": "https://github.com/layalyounes/layalyounes.github.io/home"
+  "homepage": "https://github.com/layalyounes/layalyounes.github.io/home",
+  "devDependencies": {
+    "gulp-sass": "^2.3.2"
+  }
 }
