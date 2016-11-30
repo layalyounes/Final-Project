@@ -1,1 +1,6 @@
-//competition page js. all script tags should be rewritten here and deleted from html
+
+var app = angular.module('myApp');
+
+app.controller('resultView', function($scope){
+	$scope.result = function() {};
+};
