@@ -1,3 +1,0 @@
-[submodule "lib/ng-oauth"]
-	path = lib/ng-oauth
-	url = https://github.com/h-packard/oauth-ng
