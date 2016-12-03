@@ -1,1 +1,6 @@
-//js for contact form. all script is on this page
+
+var app = angular.module('myApp');
+
+app.controller('contactView', function($scope){
+	$scope.contact = function(){};
+};

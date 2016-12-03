@@ -1,13 +1,19 @@
+@import 'fitbitVar';
 
     /* Remove the navbar's default margin-bottom and rounded borders */
     .navbar {
+      color: $navbargreen;    
       margin-bottom: 0;
       border-radius: 0;
     }
 
+    h3 {
+      color: $footink;
+    }
 
     /* Add a gray background color and some padding to the footer */
     footer {
+      background-color: $bgcolorltgray;
       padding: 25px;
     }
 
